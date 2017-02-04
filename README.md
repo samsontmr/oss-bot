@@ -16,7 +16,7 @@ oss-bot can currently:
 
 ### Set up your own bot server & account
 
-Cheat: If your project follows [these conventions](https://github.com/oss-generic/process/blob/master/docs/FormatsAndConventions.md), skip to the next section and simply set your GitHub webhook to `https://oss-bot.herokuapp.com/pull_req`. This bot also enforces the convention that the PR description starts with `Fixes #<issue-number>`.
+> Cheat: If your project follows [these conventions](https://github.com/oss-generic/process/blob/master/docs/FormatsAndConventions.md), skip to the next section and simply set your GitHub webhook to `https://oss-bot.herokuapp.com/pull_req`. This bot also enforces the convention that the PR description starts with `Fixes #<issue-number>`.
 
 1. Fork/clone this repository.
 1. Create a new GitHub user account for your bot, e.g. `teammates-bot`.
