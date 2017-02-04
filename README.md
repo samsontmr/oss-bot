@@ -39,3 +39,5 @@ oss-bot can currently:
 1. Choose `Let me select individual events -> Pull request`.
 1. Add Webhook.
 
+# Contributing
+oss-bot welcomes contributors! If you have a feature to suggest or would like to contribute code/tests, please create a new issue in the issue tracker!
